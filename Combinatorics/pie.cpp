@@ -7,7 +7,7 @@
 #define dbg(...)
 #endif
 
-/// principle of inclusion exclusion
+/// principle of inclusion exclusion -> https://www.spoj.com/problems/NGM2/en/
 
 using namespace std;
 typedef long long int ll;
