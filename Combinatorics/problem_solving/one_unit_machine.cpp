@@ -19,7 +19,7 @@ typedef long long int ll;
 
 // n! = 1 * 2 * 3 * ...... * n
 const int nmax = 1e6;
-const int mod = 998244353;
+const int mod = 1000000007 ;
 ll fact[nmax+5];
 
 ll bin_expo(int a, int b){ // it will return a^b
